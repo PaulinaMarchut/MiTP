@@ -1,29 +1,0 @@
-Dependencies for Project 'uart', Target 'Target 1': (DO NOT MODIFY !)
-F (.\keyboard.c)(0x5A9F34CE)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\keyboard.h)(0x5A9F34CE)
-F (.\led.c)(0x5A9F34D0)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\led.h)(0x5AA94072)
-F (.\main.c)(0x5AABA0A9)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\led.h)(0x5AA94072)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\timer_interrupts.h)(0x5AA69BC7)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\keyboard.h)(0x5A9F34CE)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\servo.h)(0x5AAB9DE4)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\uart.h)(0x5AA93F1A)
-F (.\servo.c)(0x5AAB9DE4)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\servo.o --omf_browse .\servo.crf --depend .\servo.d)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\servo.h)(0x5AAB9DE4)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\led.h)(0x5AA94072)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\timer_interrupts.h)(0x5AA69BC7)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\keyboard.h)(0x5A9F34CE)
-F (.\timer_interrupts.c)(0x5AA65B7B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\timer_interrupts.o --omf_browse .\timer_interrupts.crf --depend .\timer_interrupts.d)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\led.h)(0x5AA94072)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\timer_interrupts.h)(0x5AA69BC7)
-F (.\uart.c)(0x5AAB89AC)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
-I (C:\Keil\ARM\Inc\Philips\LPC210X.H)(0x51C7FF8C)
-I (C:\Users\u퓓tkownik\Desktop\mitp 2.0\current\uart.h)(0x5AA93F1A)
-F (.\Startup.s)(0x51C7FF5E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
-F (.\operacje_proste.c)(0x5A9F24A4)()
